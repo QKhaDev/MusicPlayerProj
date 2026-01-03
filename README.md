@@ -1,1 +1,1 @@
-## This is really simple music player made with zero skill whatsoever.
+## This is a really simple music player made with zero skill whatsoever.
